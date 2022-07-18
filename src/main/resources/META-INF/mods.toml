@@ -9,10 +9,10 @@ license="ComputerCraft Public License (https://raw.githubusercontent.com/dan200/
 [[mods]]
 modId="computercraft"
 version="${file.jarVersion}"
-displayName="CC: Tweaked"
-displayURL="https://tweaked.cc"
+displayName="CC: Python"
+displayURL="https://github.com/Morgandri1/Python-CC"
 
-credits="Created by Daniel Ratcliffe (@DanTwoHundred)"
+credits="Created by Daniel Ratcliffe (@DanTwoHundred), and remixed by Morgan Metz (@Morgandri1) with help from Tyler Zupfer (@Tazmania40)"
 authors="Daniel Ratcliffe, Aaron Mills, SquidDev"
 description='''
 CC: Tweaked is a fork of ComputerCraft, adding programmable computers, turtles and more to Minecraft.
