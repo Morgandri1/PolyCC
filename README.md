@@ -1,4 +1,4 @@
-# ![CC: Tweaked](doc/logo.png)
+# ![CC: Python](doc/logo.png)
 [![Current build status](https://github.com/cc-tweaked/CC-Tweaked/workflows/Build/badge.svg)](https://github.com/cc-tweaked/CC-Tweaked/actions "Current build status") [![Download CC: Tweaked on CurseForge](http://cf.way2muchnoise.eu/title/cc-tweaked.svg)][CurseForge]
 
 CC: Tweaked is a mod for Minecraft which adds programmable computers, turtles and more to the game. A fork of the
