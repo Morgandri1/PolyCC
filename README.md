@@ -1,21 +1,13 @@
 # ![CC: Python](doc/logo.png)
 
-CC is a mod for Minecraft which adds programmable computers, turtles and more to the game. Python-CC is a way to use a superior programming language 
+CC is a mod for Minecraft which adds programmable computers, turtles and more to the game. PolyCC is a way to use a superior programming language 
 
-Python-CC can be installed from [CurseForge]. It requires the [Minecraft Forge][forge] mod loader, but
+PolyCC can be installed from [CurseForge]. It requires the [Minecraft Forge][forge] mod loader, but
 [versions are available for Fabric][ccrestitched].
 
 ## Contributing
 Any contribution is welcome, be that using the mod, reporting bugs or contributing code. If you want to get started
 developing the mod, [check out the instructions here](CONTRIBUTING.md#developing).
-
-## Community
-If you need help getting started with CC: Tweaked, want to show off your latest project, or just want to chat about
-ComputerCraft we have a [forum](https://forums.computercraft.cc/) and [Discord guild](https://discord.computercraft.cc)!
-There's also a fairly populated, albeit quiet [IRC channel](http://webchat.esper.net/?channels=computercraft), if that's
-more your cup of tea.
-
-We also host fairly comprehensive documentation at [tweaked.cc](https://tweaked.cc/ "The CC: Tweaked website").
 
 ## Using
 CC: Tweaked is hosted on my maven repo, and so is relatively simple to depend on. You may wish to add a soft (or hard)
@@ -46,7 +38,5 @@ We bundle the API sources with the jar, so documentation should be easily viewab
 the generated documentation [can be browsed online](https://tweaked.cc/javadoc/).
 
 [computercraft]: https://github.com/dan200/ComputerCraft "ComputerCraft on GitHub"
-[curseforge]: https://minecraft.curseforge.com/projects/cc-tweaked "Download CC: Tweaked from CurseForge"
-[modrinth]: https://modrinth.com/mod/gu7yAYhd "Download CC: Tweaked from Modrinth"
+[PolyCC]: https://github.com/Morgandri1/PolyCC "PolyCC on GitHub"
 [forge]: https://files.minecraftforge.net/ "Download Minecraft Forge."
-[ccrestitched]: https://www.curseforge.com/minecraft/mc-mods/cc-restitched "Download CC: Restitched from CurseForge"
