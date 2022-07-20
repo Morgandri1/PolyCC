@@ -1,10 +1,8 @@
 # ![CC: Python](doc/logo.png)
-[![Current build status](https://github.com/cc-tweaked/CC-Tweaked/workflows/Build/badge.svg)](https://github.com/cc-tweaked/CC-Tweaked/actions "Current build status") [![Download CC: Tweaked on CurseForge](http://cf.way2muchnoise.eu/title/cc-tweaked.svg)][CurseForge]
 
-CC: Tweaked is a mod for Minecraft which adds programmable computers, turtles and more to the game. A fork of the
-much-beloved [ComputerCraft], it continues its legacy with better performance, stability, and a wealth of new features.
+CC is a mod for Minecraft which adds programmable computers, turtles and more to the game. Python-CC is a way to use a superior programming language 
 
-CC: Tweaked can be installed from [CurseForge] or [Modrinth]. It requires the [Minecraft Forge][forge] mod loader, but
+Python-CC can be installed from [CurseForge]. It requires the [Minecraft Forge][forge] mod loader, but
 [versions are available for Fabric][ccrestitched].
 
 ## Contributing
